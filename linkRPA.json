@@ -1,0 +1,81 @@
+[{
+		"Descrição" : "Available Button Graphics for the Word Custom UI Ribbon Control",
+		"Link" : "http://soltechs.net/CustomUI/",
+		"Categoria" : "Ribbon Control"
+	}, {
+		"Descrição" : "Funções do Excel (por categoria)",
+		"Link" : "https://goo.gl/oxrvZo",
+		"OBS" : "",
+		"Categoria" : "EXCEL"
+	}, {
+		"Descrição" : "",
+		"Link" : "https://www.autoitscript.com/wiki/ADO_Example_Excel",
+		"OBS" : "",
+		"Categoria" : "Autoit"
+	}, {
+		"Descrição" : "",
+		"Link" : "https://www.autoitscript.com/wiki/ADO_Tools",
+		"OBS" : "",
+		"Categoria" : "Autoit"
+	}, {
+		"Descrição" : "",
+		"Link" : "https://www.autoitscript.com/wiki/ADO",
+		"OBS" : "",
+		"Categoria" : "Autoit"
+	}, {
+		"Descrição" : "",
+		"Link" : "http://vista.tutorialref.com/autoit/autoit-access-database.html",
+		"OBS" : "",
+		"Categoria" : "Autoit"
+	}, {
+		"Descrição" : "",
+		"Link" : "https://www.autoitscript.com/wiki/Snippets_%28_AutoIt_%29#GetClasses",
+		"OBS" : "",
+		"Categoria" : "Autoit"
+	}, {
+		"Descrição" : "",
+		"Link" : "https://www.autoitscript.com/autoit3/docs/functions/",
+		"OBS" : "",
+		"Categoria" : "Autoit"
+	}, {
+		"Descrição" : "",
+		"Link" : "http://www.heise.de/download/autoit-debugger-b6222c83f17c0369d35b8419960edd33-1431922015-2662782.html",
+		"OBS" : "",
+		"Categoria" : "Autoit"
+	}, {
+		"Descrição" : "",
+		"Link" : "http://www.thefoolonthehill.net/drupal/sites/default/files/WebFM/admin/help/AutoIt_Debugger/AutoItDebuggerHelp.html?ProgramTraceWindow.html",
+		"OBS" : "",
+		"Categoria" : "Autoit"
+	}, {
+		"Descrição" : "BluePrim - Portal",
+		"Link" : "https://portal.blueprism.com/",
+		"OBS" : "",
+		"Categoria" : ""
+	}, {
+		"Descrição" : "BluePrim - videos",
+		"Link" : "https://www.youtube.com/channel/UCHi15Tuzxb4_Ku9yia72QDg/videos",
+		"OBS" : "",
+		"Categoria" : "videos"
+	}, {
+		"Descrição" : "BluePrim - videos",
+		"Link" : "https://www.youtube.com/watch?v=GF6_b2FfVsw&list=PL4SEtvjUqihFh-iFvb_s0VAhPCX1tzg2A",
+		"OBS" : "",
+		"Categoria" : "videos"
+	}, {
+		"Descrição" : "BluePrim - videos",
+		"Link" : "https://www.youtube.com/playlist?list=PLYrWj5lF6NaBvVY-dWChPD_ONdFXUYbwg",
+		"OBS" : "",
+		"Categoria" : "videos"
+	}, {
+		"Descrição" : "Blue Prism - Let's Build",
+		"Link" : "https://www.youtube.com/playlist?list=PLYrWj5lF6NaAtTEVPWDWdiBL98e5m3EeY",
+		"OBS" : "",
+		"Categoria" : ""
+	}, {
+		"Descrição" : "Blue Prism - Youtube",
+		"Link" : "",
+		"OBS" : "#BluePrismTutorialsforBeginners",
+		"Categoria" : "videos"
+	}
+]
