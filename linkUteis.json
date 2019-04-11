@@ -1,0 +1,286 @@
+[{
+		"Descrição" : "The language for building web pages",
+		"Link" : "http://www.w3schools.com/",
+		"Categoria" : "Tutorial"
+	}, {
+		"Descrição" : "techonthenet",
+		"Link" : "http://www.techonthenet.com/index.php",
+		"Categoria" : "Tutorial"
+	}, {
+		"Descrição" : "Dependency Walker 2",
+		"Link" : "http://www.dependencywalker.com/",
+		"OBS" : "",
+		"Categoria" : ""
+	}, {
+		"Descrição" : "sqlite",
+		"Link" : "http://www.sqlite.org/index.html",
+		"OBS" : "",
+		"Categoria" : "Tutorial"
+	}, {
+		"Descrição" : "WIN7DLL",
+		"Link" : "http://www.win7dll.info/",
+		"OBS" : "",
+		"Categoria" : "Tutorial"
+	}, {
+		"Descrição" : "w3c",
+		"Link" : "http://www.w3c.br/Home/WebHome",
+		"OBS" : "O W3C Brasil disponibiliza alguns materias, tutorias e cursos sobre Tecnologias Web. Veja nos links abaixo nossas publicações, materiais utilizados nos cursos e outros links para tutoriais.",
+		"Categoria" : "Tutorial"
+	}, {
+		"Descrição" : "Catálogo de referência e API da Microsoft",
+		"Link" : "https://msdn.microsoft.com/pt-br/library/ms123401.aspx",
+		"OBS" : "",
+		"Categoria" : ""
+	}, {
+		"Descrição" : "AVG",
+		"Link" : "https://secure.avg.com/br-pt/rc-login",
+		"OBS" : "",
+		"Categoria" : "app"
+	}, {
+		"Descrição" : "Command line reference – Web, Database and OS scripting.",
+		"Link" : "http://ss64.com/",
+		"OBS" : "",
+		"Categoria" : "Command"
+	}, {
+		"Descrição" : "url shortener",
+		"Link" : "https://goo.gl/",
+		"OBS" : "Encurtador DE link",
+		"Categoria" : "shortener"
+	},  {
+		"Descrição" : "ICONES",
+		"Link" : "http://www.iconarchive.com/",
+		"OBS" : "",
+		"Categoria" : "app"
+	}, {
+		"Descrição" : "Perl - Directories",
+		"Link" : "http://www.tutorialspoint.com/perl/perl_directories.htm",
+		"OBS" : "",
+		"Categoria" : "Perl"
+	}, {
+		"Descrição" : "Escrevendo em Arquivos com Perl",
+		"Link" : "http://br.perlmaven.com/escrevendo-em-arquivos-com-perl",
+		"OBS" : "",
+		"Categoria" : "Perl"
+	}, {
+		"Descrição" : "MantisBT makes collaboration with team members & clients easy, fast, and professional",
+		"Link" : "http://www.mantisbt.org/",
+		"OBS" : "MantisBT is an open source issue tracker that provides a delicate balance between simplicity and power. Users are able to get started in minutes and start managing their projects while collaborating with their teammates and clients effectively. Once you start using it, you will never go back!",
+		"Categoria" : ""
+	}, {
+		"Descrição" : "Front Accounting ERP",
+		"Link" : "http://frontaccounting.com/wb3/",
+		"OBS" : "",
+		"Categoria" : "ERP"
+	}, {
+		"Descrição" : "nixCraft",
+		"Link" : "https://www.cyberciti.biz/",
+		"OBS" : "NixCraft is an online community of new and seasoned Linux / Unix sysadmins who want to make the most of sysadmin-hood.",
+		"Categoria" : "Linux"
+	}, {
+		"Descrição" : "Xamarin",
+		"Link" : "https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/",
+		"OBS" : "",
+		"Categoria" : ""
+	}, {
+		"Descrição" : "compile web",
+		"Link" : "https://dotnetfiddle.net/",
+		"OBS" : "",
+		"Categoria" : ""
+	}, {
+		"Descrição" : "SSIS - How To Use Pivot Transformation in SSIS 2012",
+		"Link" : "http://www.techbrothersit.com/2013/12/ssis-how-to-use-pivot-transformation-in.html",
+		"OBS" : "",
+		"Categoria" : "ssis"
+	}, {
+		"Descrição" : "Learn SSIS",
+		"Link" : "https://www.youtube.com/channel/UCvhn9JjZ2KZUrVci87PQa5Q",
+		"OBS" : "",
+		"Categoria" : "ssis"
+	}, {
+		"Descrição" : "Perl tutorial",
+		"Link" : "https://br.perlmaven.com/perl-tutorial",
+		"OBS" : "",
+		"Categoria" : "Perl"
+	}, {
+		"Descrição" : "Learn program",
+		"Link" : "https://www.dotnetperls.com/",
+		"OBS" : "",
+		"Categoria" : "C#,Go,Java,Python,Ruby,Scala,Swift,VB.NET,WPF,Favorito"
+	}, {
+		"Descrição" : "C# Examples",
+		"Link" : "http://www.csharp-examples.net/",
+		"OBS" : "Welcome to C# Examples. This site is focused on simple straightforward code examples suitable for copy and paste.",
+		"Categoria" : "C#,Favorito"
+	}, {
+		"Descrição" : "WIKILIVROS",
+		"Link" : "https://pt.wikibooks.org/wiki/Wikilivros:P%C3%A1gina_principal",
+		"OBS" : "",
+		"Categoria" : ""
+	}, {
+		"Descrição" : "Visual Studio | Marketplace",
+		"Link" : "https://marketplace.visualstudio.com/search?target=VS&category=Tools&vsVersion=&subCategory=All&sortBy=Downloads",
+		"OBS" : "",
+		"Categoria" : ""
+	}, {
+		"Descrição" : "System Stored Procedures (Transact-SQL)",
+		"Link" : "https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/system-stored-procedures-transact-sql?view=sql-server-2017",
+		"OBS" : "",
+		"Categoria" : "SQL"
+	}, {
+		"Descrição" : "Atalhos de teclado do SQL Server Management Studio",
+		"Link" : "https://docs.microsoft.com/pt-br/sql/ssms/sql-server-management-studio-keyboard-shortcuts?view=sql-server-2017",
+		"OBS" : "",
+		"Categoria" : "SQL,Atalhos"
+	}, {
+		"Descrição" : "Web development tutorials",
+		"Link" : "https://www.w3resource.com/",
+		"OBS" : "",
+		"Categoria" : "Ruby, Java, PHP, Python, C Programming, Matplotlib, Python NumPy, Python Pandas, PL/SQL, Swift"
+	}, {
+		"Descrição" : "pluralsight",
+		"Link" : "https://www.pluralsight.com/",
+		"OBS" : "",
+		"Categoria" : "Tutorials"
+	}, {
+		"Descrição" : "Guia de C#",
+		"Link" : "https://docs.microsoft.com/pt-br/dotnet/csharp/index",
+		"OBS" : "",
+		"Categoria" : "C#"
+	}, {
+		"Descrição" : "fandom",
+		"Link" : "https://www.fandom.com/",
+		"OBS" : "",
+		"Categoria" : "News"
+	}, {
+		"Descrição" : "Vim - Tutorial Index",
+		"Link" : "http://vimgenius.com/lessons",
+		"OBS" : "",
+		"Categoria" : "Vim"
+	}, {
+		"Descrição" : "Vim/Usando marcas",
+		"Link" : "https://pt.wikibooks.org/wiki/Vim/Usando_marcas",
+		"OBS" : "",
+		"Categoria" : "Vim"
+	}, {
+		"Descrição" : "O EDITOR DE TEXTO VIM",
+		"Link" : "https://cassiobotaro.gitbooks.io/vimbook/content/",
+		"OBS" : "",
+		"Categoria" : "Vim"
+	}, {
+		"Descrição" : "Build Python-enabled Vim on Windows with MinGW",
+		"Link" : "https://vim.fandom.com/wiki/Build_Python-enabled_Vim_on_Windows_with_MinGW",
+		"OBS" : "",
+		"Categoria" : "Vim,Python"
+	}, {
+		"Descrição" : "100 Vim commands every programmer should know",
+		"Link" : "https://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know",
+		"OBS" : "",
+		"Categoria" : "Vim"
+	}, {
+		"Descrição" : "Learn Python",
+		"Link" : "https://www.pythonforbeginners.com/learn-python/",
+		"OBS" : "",
+		"Categoria" : "Python"
+	}, {
+		"Descrição" : "vimbook",
+		"Link" : "https://legacy.gitbook.com/book/cassiobotaro/vimbook/details",
+		"OBS" : "",
+		"Categoria" : "Vim,Book"
+	},  {
+		"Descrição" : "Regular Expressions",
+		"Link" : "https://blog.udemy.com/vba-regex/",
+		"OBS" : "",
+		"Categoria" : "Tutorial"
+	}, {
+		"Descrição" : "Regular Expressions",
+		"Link" : "http://dmcritchie.mvps.org/excel/grove_digitsid.htm",
+		"OBS" : "",
+		"Categoria" : "Tutorial"
+	}, {
+		"Descrição" : "Open Source Components for Xamarin",
+		"Link" : "https://github.com/xamarin/XamarinComponents",
+		"OBS" : "",
+		"Categoria" : "Xamarin"
+	}, {
+		"Descrição" : "Replace diff/merge tool in Visual Studio Team System with WinMerge",
+		"Link" : "http://blog.paulbouwer.com/2010/01/31/replace-diffmerge-tool-in-visual-studio-team-system-with-winmerge/",
+		"OBS" : "",
+		"Categoria" : "Vsts"
+	}, {
+		"Descrição" : "Xamarin Forms - Apresentando a navegação entre páginas - I",
+		"Link" : "http://www.macoratti.net/16/12/xamforms_naveg1.htm",
+		"OBS" : "",
+		"Categoria" : "Xamarin"
+	}, {
+		"Descrição" : "Instalando o Xamarin no Visual Studio de 2019",
+		"Link" : "https://docs.microsoft.com/pt-br/xamarin/get-started/installation/windows",
+		"OBS" : "",
+		"Categoria" : "Xamarin"
+	}, {
+		"Descrição" : "Configurando o ambiente de desenvolvimento xamarin no windows",
+		"Link" : "https://julianocustodio.com/2017/03/01/configurando-o-ambiente-de-desenvolvimento-xamarin-no-windows/",
+		"OBS" : "",
+		"Categoria" : "Tutorial"
+	}, {
+		"Descrição" : "TeamViewerQS",
+		"Link" : "https://download.teamviewer.com/download/TeamViewerQS.exe",
+		"OBS" : "",
+		"Categoria" : "app"
+	}, {
+		"Descrição" : "Learn Vimscript the Hard Way",
+		"Link" : "http://learnvimscriptthehardway.stevelosh.com",
+		"OBS" : "",
+		"Categoria" : "Vim,Vimscript"
+	}, {
+		"Descrição" : "Best of Vim Tips",
+		"Link" : "http://rayninfo.co.uk/vimtips.html",
+		"OBS" : "",
+		"Categoria" : "Vim"
+	}, {
+		"Descrição" : "AdventureWorks sample databases",
+		"Link" : "https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks",
+		"OBS" : "",
+		"Categoria" : "sql"
+	}, {
+		"Descrição" : "Microsoft Docs",
+		"Link" : "https://docs.microsoft.com/pt-br/",
+		"OBS" : "O docs.microsoft.com é onde fica a documentação técnica, a referência de API, os exemplos de código, os guias de início rápido e os tutoriais da Microsoft para desenvolvedores e profissionais de TI.",
+		"Categoria" : "Docs"
+	}, {
+		"Descrição" : "Command line reference – Database and OS scripting.",
+		"Link" : "https://ss64.com/",
+		"OBS" : "",
+		"Categoria" : "scripts,Command"
+	}, {
+		"Descrição" : "Guia de Programação em C#",
+		"Link" : "https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/index",
+		"OBS" : "",
+		"Categoria" : "C#,Tutorial"
+	}, {
+		"Descrição" : "Gerenciar exceções com o depurador do Visual Studio",
+		"Link" : "https://docs.microsoft.com/pt-br/visualstudio/debugger/managing-exceptions-with-the-debugger",
+		"OBS" : "",
+		"Categoria" : "Tutorial"
+	}, {
+		"Descrição" : "Winscp",
+		"Link" : "https://winscp.net/eng/docs/start",
+		"OBS" : "Table of Contents",
+		"Categoria" : "Winscp,Command"
+	}, {
+		"Descrição" : "The Connection Strings Reference",
+		"Link" : "https://www.connectionstrings.com/",
+		"OBS" : "ConnectionStrings.com helps developers connect software to data.",
+		"Categoria" : "Connection Strings"
+	}, {
+		"Descrição" : "compartilhar código via webs",
+		"Link" : "http://dontpad.com",
+		"OBS" : "",
+		"Categoria" : ""
+	}, {
+		"Descrição" : "",
+		"Link" : "",
+		"OBS" : "",
+		"Categoria" : ""
+	}
+
+]
