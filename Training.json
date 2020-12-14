@@ -1,0 +1,1342 @@
+[
+   {
+      "description": "Servicos",
+      "link": "https://12factor.net/pt_br/",
+      "KeyPass": "MIC"
+   },
+   {
+      "description": "Servicos",
+      "link": "https://microservices.io/patterns/apigateway.html",
+      "KeyPass": "MIC"
+   },
+   {
+      "description": "Servicos",
+      "link": "https://www.elastic.co/pt/what-is/kibana",
+      "KeyPass": "MIC"
+   },
+   {
+      "description": "Servicos",
+      "link": "https://www.google.com/search?q=kibana+o+que+%C3%A9&rlz=1C1GCEU_pt-BRBR893BR893&oq=Kibana&aqs=chrome.2.69i57j0l7.3347j0j9&sourceid=chrome&ie=UTF-8",
+      "KeyPass": "MIC"
+   },
+   {
+      "description": "Servicos",
+      "link": "https://www.oreilly.com/library/view/building-microservices/9781491950340/",
+      "KeyPass": "MIC"
+   },
+   {
+      "description": "100 DICAS para o editor VIM",
+      "link": "https://terminalroot.com.br/2019/10/100-dicas-para-o-editor-vim.html",
+      "KeyPass": "Vim"
+   },
+   {
+      "description": "100 Vim commands every programmer should know",
+      "link": "https://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know",
+      "KeyPass": "Vim"
+   },
+   {
+      "description": "A Beginner's Guide to Building RESTful Web Applications with NodeJS and Express",
+      "link": "https://www.udemy.com/course/expressjs-fundamentals/learn/lecture/4237314#overview",
+      "KeyPass": "NodeJS"
+   },
+   {
+      "description": "AdventureWorks sample databases",
+      "link": "https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks",
+      "KeyPass": "sql"
+   },
+   {
+      "description": "Algoritmos e L\u00F3gica de programa\u00E7\u00E3o",
+      "link": "https://www.udemy.com/course/algoritmos-logica-programacao/learn/lecture/9762578#overview",
+      "KeyPass": "Algoritmos"
+   },
+   {
+      "description": "Alura: Curso de Mock - Aula 1",
+      "link": "https://www.youtube.com/watch?v=pUvcr9JyMuM",
+      "KeyPass": "Mock"
+   },
+   {
+      "description": "API RESTful avan\u00E7ada com Spring Boot e Java 8",
+      "link": "https://www.udemy.com/course/api-restful-avancada-spring-boot-java-8/",
+      "KeyPass": "Spring Boot e Java 8"
+   },
+   {
+      "description": "API RESTful com Spring Boot e Java 8 - Guia de Refer\u00EAncia",
+      "link": "https://www.udemy.com/course/api-restful-spring-boot-java-8-guia-referencia/",
+      "KeyPass": "Spring Boot"
+   },
+   {
+      "description": "Aprenda a atingir a produtividade infinita com o Visual Studio Code e tornar-se um programador infinitamente melhor!",
+      "link": "https://www.udemy.com/course/vscode-frontend/learn/lecture/14446500#overview",
+      "KeyPass": "VsCode"
+   },
+   {
+      "description": "Aprenda a criar ambientes profissionais completos com Docker, que \u00E9 a principal tecnologia de containers do mercado!",
+      "link": "https://www.udemy.com/course/curso-docker/learn/lecture/7564242#overview",
+      "KeyPass": "Docker"
+   },
+   {
+      "description": "Aprenda a criar sites est\u00E1ticos com o Jekyll e hospedar diretamente no Github Pages.",
+      "link": "https://www.udemy.com/course/draft/1243098/learn/lecture/7225262#overview",
+      "KeyPass": "Jekyll"
+   },
+   {
+      "description": "Aprenda a otimizar a performance de carregamento das suas p\u00E1ginas com v\u00E1rias t\u00E9cnicas de otimiza\u00E7\u00E3o.",
+      "link": "https://www.udemy.com/course/curso-de-performance-web/learn/lecture/7784704#overview",
+      "KeyPass": "html"
+   },
+   {
+      "description": "Aprenda com especialistas a construir programas de computador com a linguagem Python e banco de dados MySQL",
+      "link": "https://www.udemy.com/course/python-mysql/learn/lecture/14394468#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Aprenda Criar Sites Responsivos de Forma Profissional sem Programar",
+      "link": "https://www.udemy.com/course/criar-sites-responsivos-sem-programar-facil-e-rapido/learn/lecture/8139943#overview",
+      "KeyPass": "html"
+   },
+   {
+      "description": "Aprenda desenvolvimento web do zero! HTML, CSS, JavaScript, AJAX, JSON, Bootstrap, WordPress, PHP, MySQL e muito mais.",
+      "link": "https://www.udemy.com/course/curso-desenvolvedor-web-full-stack-jr-completo/learn/lecture/9481826#overview",
+      "KeyPass": "html"
+   },
+   {
+      "description": "Aprenda HTML 5 de forma simples e r\u00E1pida, da mesma forma que alunos de Gradua\u00E7\u00E3o aprendem, sem precisar fazer Faculdade.",
+      "link": "https://www.udemy.com/course/aprendahtml/learn/lecture/6777802#overview",
+      "KeyPass": "html"
+   },
+   {
+      "description": "Aprenda programa\u00E7\u00E3o com a linguagem Python para manipula\u00E7\u00E3o de dados biol\u00F3gicos e pesquisas cient\u00EDficas",
+      "link": "https://www.udemy.com/course/python_para_bioinformatica/learn/lecture/14392766#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Aprenda tudo sobre Markdown em 35 minutos com um mini-curso gratuito de 14 v\u00EDdeo-aulas.",
+      "link": "https://www.udemy.com/course/aprenda-markdown/learn/lecture/7459932#overview",
+      "KeyPass": "Markdown"
+   },
+   {
+      "description": "Aprendendo Swift 3 do Iniciante ao Avan\u00E7ado",
+      "link": "https://www.udemy.com/course/aprendendoswift3/learn/lecture/5937934#overview",
+      "KeyPass": "Swift"
+   },
+   {
+      "description": "Apresenta\u00E7\u00E3o do AWS Transfer for SFTP, um servi\u00E7o gerenciado de SFTP para o Amazon S3",
+      "link": "https://aws.amazon.com/pt/about-aws/whats-new/2018/11/aws-transfer-for-sftp-fully-managed-sftp-for-s3/",
+      "KeyPass": "aws"
+   },
+   {
+      "description": "Atalhos de teclado do SQL Server Management Studio",
+      "link": "https://docs.microsoft.com/pt-br/sql/ssms/sql-server-management-studio-keyboard-shortcuts?view=sql-server-2017",
+      "KeyPass": "SQL,Atalhos"
+   },
+   {
+      "description": "Atualizar o kernel do WSL 2 Linux",
+      "link": "https://docs.microsoft.com/pt-br/windows/wsl/wsl2-kernel#wsl-2-requires-an-update-to-its-kernel-component-for-information-please-visit-httpsakamswsl2kernel",
+      "KeyPass": "WSL"
+   },
+   {
+      "description": "Autoit",
+      "link": "http://vista.tutorialref.com/autoit/autoit-access-database.html",
+      "KeyPass": "Autoit"
+   },
+   {
+      "description": "Autoit",
+      "link": "http://www.heise.de/download/autoit-debugger-b6222c83f17c0369d35b8419960edd33-1431922015-2662782.html",
+      "KeyPass": "Autoit"
+   },
+   {
+      "description": "Autoit",
+      "link": "http://www.thefoolonthehill.net/drupal/sites/default/files/WebFM/admin/help/AutoIt_Debugger/AutoItDebuggerHelp.html?ProgramTraceWindow.html",
+      "KeyPass": "Autoit"
+   },
+   {
+      "description": "Autoit",
+      "link": "https://www.autoitscript.com/autoit3/docs/functions/",
+      "KeyPass": "Autoit"
+   },
+   {
+      "description": "Autoit",
+      "link": "https://www.autoitscript.com/wiki/ADO",
+      "KeyPass": "Autoit"
+   },
+   {
+      "description": "Autoit",
+      "link": "https://www.autoitscript.com/wiki/ADO_Example_Excel",
+      "KeyPass": "Autoit"
+   },
+   {
+      "description": "Autoit",
+      "link": "https://www.autoitscript.com/wiki/ADO_Tools",
+      "KeyPass": "Autoit"
+   },
+   {
+      "description": "Autoit",
+      "link": "https://www.autoitscript.com/wiki/Snippets_%28_AutoIt_%29#GetClasses",
+      "KeyPass": "Autoit"
+   },
+   {
+      "description": "Available Button Graphics for the Word Custom UI Ribbon Control",
+      "link": "http://soltechs.net/CustomUI/",
+      "KeyPass": "Ribbon Control"
+   },
+   {
+      "description": "AVG",
+      "link": "https://secure.avg.com/br-pt/rc-login",
+      "KeyPass": "app"
+   },
+   {
+      "description": "Banco de Dados MySQL",
+      "link": "https://www.udemy.com/aprenda_mysql_em30minutos/?couponCode=PRESENTE_PHD",
+      "KeyPass": "Cursos"
+   },
+   {
+      "description": "Begin your journey to a full stack JavaScript developer by learning how to store data using Mongo DB.",
+      "link": "https://www.udemy.com/course/mongo-db-with-node-express/learn/lecture/11537624#overview",
+      "KeyPass": "MongoDB"
+   },
+   {
+      "description": "Beginners, Zero to Hero. AWS EC2 web server, NodeJS Server, AWS RDS database server, S3, SES & CloudWatch. FREE",
+      "link": "https://www.udemy.com/course/amazon-web-services-aws-v/learn/lecture/7834634#overview",
+      "KeyPass": "AWS EC2"
+   },
+   {
+      "description": "Best of Vim TipsLink",
+      "link": "http://rayninfo.co.uk/vimtips.html",
+      "KeyPass": "Vim"
+   },
+   {
+      "description": "Blue Prism - Youtube",
+      "link": "#BluePrismTutorialsforBeginners",
+      "KeyPass": "BluePrism"
+   },
+   {
+      "description": "BluePrim - Portal",
+      "link": "https://portal.blueprism.com/",
+      "KeyPass": "BluePrim"
+   },
+   {
+      "description": "BluePrim - videos",
+      "link": "https://www.youtube.com/channel/UCHi15Tuzxb4_Ku9yia72QDg/videos",
+      "KeyPass": "BluePrim"
+   },
+   {
+      "description": "BluePrim - videos",
+      "link": "https://www.youtube.com/playlist?list=PLYrWj5lF6NaBvVY-dWChPD_ONdFXUYbwg",
+      "KeyPass": "BluePrim"
+   },
+   {
+      "description": "BluePrim - videos",
+      "link": "https://www.youtube.com/watch?v=GF6_b2FfVsw&list=PL4SEtvjUqihFh-iFvb_s0VAhPCX1tzg2A",
+      "KeyPass": "BluePrim"
+   },
+   {
+      "description": "BluePrism - Let's Build",
+      "link": "https://www.youtube.com/playlist?list=PLYrWj5lF6NaAtTEVPWDWdiBL98e5m3EeY",
+      "KeyPass": "BluePrism"
+   },
+   {
+      "description": "Brackets is the free, open source code editor. Explore its many powerful features in this tutorial!",
+      "link": "https://www.udemy.com/course/brackets/learn/lecture/2736838#overview",
+      "KeyPass": "html"
+   },
+   {
+      "description": "Build a great looking flat design website using a simple but well coded template.",
+      "link": "https://www.udemy.com/course/build-responsive-website-designs-with-html5-and-css/learn/lecture/1067896#overview",
+      "KeyPass": "html"
+   },
+   {
+      "description": "Build a web application using Spring Framework 4 and Spring Boot",
+      "link": "https://www.udemy.com/course/spring-core/learn/lecture/4490768#overview",
+      "KeyPass": "Spring Boot"
+   },
+   {
+      "description": "Build Python-enabled Vim on Windows with MinGW",
+      "link": "https://vim.fandom.com/wiki/Build_Python-enabled_Vim_on_Windows_with_MinGW",
+      "KeyPass": "Vim,Python"
+   },
+   {
+      "description": "busca de textos com python",
+      "link": "https://www.udemy.com/course/inteligencia-artificial-buscas-em-textos-com-python/learn/lecture/9128998#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Cat\u00E1logo de refer\u00EAncia e API da Microsoft",
+      "link": "https://msdn.microsoft.com/pt-br/library/ms123401.aspx",
+      "KeyPass": ""
+   },
+   {
+      "description": "Certifica\u00E7\u00E3o Scrum Master: Curso Preparat\u00F3rio COMPLETO",
+      "link": "https://www.udemy.com/course/formacao-total-em-scrum/learn/lecture/9911796#overview",
+      "KeyPass": "Scrum"
+   },
+   {
+      "description": "CodeIgniter: Criando Websites Profissionais com PHP",
+      "link": "https://www.udemy.com/codeigniter-php/?couponCode=PRESENTEPHD",
+      "KeyPass": "Cursos"
+   },
+   {
+      "description": "C\u00F3digos de status de respostas HTTP",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status",
+      "KeyPass": "HTTP"
+   },
+   {
+      "description": "Comandos b\u00E1sicos do Vim",
+      "link": "https://nbcgib.uesc.br/lec/llec/dicas/com-bas-vim",
+      "KeyPass": "Vim"
+   },
+   {
+      "description": "Command line reference \u2013 Database and OS scripting.",
+      "link": "https://ss64.com/",
+      "KeyPass": "scripts,Command"
+   },
+   {
+      "description": "Command line reference \u2013 Web Database and OS scripting.Link",
+      "link": "http://ss64.com/",
+      "KeyPass": "Command"
+   },
+   {
+      "description": "commands",
+      "link": "https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/windows-commands#l",
+      "KeyPass": "commands"
+   },
+   {
+      "description": "commands",
+      "link": "https://helpdeskgeek.com/help-desk/21-cmd-commands-all-windows-users-should-know/",
+      "KeyPass": "commands"
+   },
+   {
+      "description": "Como construir uma plataforma de E-Commerce com Python 3 e Django",
+      "link": "https://www.udemy.com/course/construa-um-e-commerce-com-python-3-e-django/learn/lecture/5510576#overview",
+      "KeyPass": "Python3 - E-Commerce"
+   },
+   {
+      "description": "Como criar m\u00E1quinas virtuais para pr\u00E1tica de cursos e estudos sem afetar a sua m\u00E1quina real, passo a passo!!",
+      "link": "https://www.udemy.com/course/virtualizacao-com-oracle-virtualbox/learn/lecture/6433318#overview",
+      "KeyPass": "VirtualBox"
+   },
+   {
+      "description": "Como desenvolver incr\u00EDveis aplica\u00E7\u00F5es web de forma r\u00E1pida",
+      "link": "https://www.udemy.com/course/python-3-na-web-com-django-basico-intermediario/learn/lecture/4791586#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Como encontrar sal\u00E1rios acima de 10k com Banco de dados Oracle",
+      "link": "http://dbaocm.com/1lidbav8?blog=3r4lduzhc&video=1lidbav8-video1",
+      "KeyPass": "Oracle"
+   },
+   {
+      "description": "compartilhar c\u00F3digo via websLink",
+      "link": "http://dontpad.com",
+      "KeyPass": "notes"
+   },
+   {
+      "description": "compile web",
+      "link": "https://dotnetfiddle.net",
+      "KeyPass": ""
+   },
+   {
+      "description": "compile webLink",
+      "link": "https://dotnetfiddle.net/",
+      "KeyPass": "compile online"
+   },
+   {
+      "description": "Computer Vision An AI service that analyses content in images and video.",
+      "link": "https://azure.microsoft.com/en-au/services/cognitive-services/computer-vision/",
+      "KeyPass": "azure"
+   },
+   {
+      "description": "Configurando o ambiente de desenvolvimento xamarin no windows",
+      "link": "https://julianocustodio.com/2017/03/01/configurando-o-ambiente-de-desenvolvimento-xamarin-no-windows/",
+      "KeyPass": "Tutorial"
+   },
+   {
+      "description": "Conhe\u00E7a o Linux atrav\u00E9s do Ubuntu 18.04 e aprenda a utilizar o terminal e construir programas com Shell Script",
+      "link": "https://www.udemy.com/course/linux-ubuntu/learn/lecture/12869420#overview",
+      "KeyPass": "Linux"
+   },
+   {
+      "description": "Consume Soap Webservices using WebServiceTemplate | Spring Boot | Java Techie",
+      "link": "https://youtu.be/WJg3NUwq6zU?t=252",
+      "KeyPass": "Example soap"
+   },
+   {
+      "description": "Create a Weather Telegram Bot using NodeJS and Firebase Cloud Functions",
+      "link": "https://www.udemy.com/course/telegram-firebase-bot/learn/lecture/13744316#overview",
+      "KeyPass": "NodeJS"
+   },
+   {
+      "description": "Creating and Starting Java Threads",
+      "link": "http://tutorials.jenkov.com/java-concurrency/creating-and-starting-threads.html",
+      "KeyPass": "Java"
+   },
+   {
+      "description": "Criando P\u00E1ginas Web com o GitHub Pages",
+      "link": "https://www.udemy.com/course/github-pages/learn/lecture/5336184#overview",
+      "KeyPass": "GitHub"
+   },
+   {
+      "description": "Criando sites est\u00E1ticos com Jekyll",
+      "link": "https://www.udemy.com/course/draft/1243098/learn/lecture/7225194#overview",
+      "KeyPass": "Jekyll"
+   },
+   {
+      "description": "Criar p\u00E1ginas web com o GitHub Pages.",
+      "link": "https://www.udemy.com/course/github-pages/learn/lecture/5336318#overview",
+      "KeyPass": "GitHub"
+   },
+   {
+      "description": "Criar uma conta de usu\u00E1rio e uma senha para sua nova distribui\u00E7\u00E3o do Linux",
+      "link": "https://docs.microsoft.com/pt-br/windows/wsl/user-support",
+      "KeyPass": "WSL"
+   },
+   {
+      "description": "Crie o seu servidor Apache Spark, processe grandes quantidades e fa\u00E7a um streaming em tempo real utilizando PySpark :)",
+      "link": "https://www.udemy.com/course/big-data-com-apache-spark-e-pyspark/learn/lecture/10373060#overview",
+      "KeyPass": "Apache Spark"
+   },
+   {
+      "description": "Crie um aplicativo de fotos tempor\u00E1rias baseado no Status do Whatsapp, Stories do Instagram e Snapchat!",
+      "link": "https://www.udemy.com/course/status-whatsapp/learn/lecture/14664092#overview",
+      "KeyPass": "Snapchat app"
+   },
+   {
+      "description": "Curso completo para aprender a construir sites usando as linguagens web mais conceituadas do mercado",
+      "link": "https://www.udemy.com/course/programacao-web-para-divulgacao-cientifica/learn/lecture/14392784#overview",
+      "KeyPass": "html"
+   },
+   {
+      "description": "Curso Completo Programa\u00E7\u00E3o para Iniciantes em JAVA 10",
+      "link": "https://www.udemy.com/course/algoritmos-programacao-em-java-10/learn/lecture/11754228#overview",
+      "KeyPass": "Java 10"
+   },
+   {
+      "description": "Curso de Algoritmos e L\u00F3gica de Programa\u00E7\u00E3o",
+      "link": "https://www.udemy.com/course/curso-de-algoritmos-e-logica-de-programacao/learn/lecture/8974326#overview",
+      "KeyPass": "Algoritmos"
+   },
+   {
+      "description": "Curso de programa\u00E7\u00E3o com Perl para Bioinform\u00E1tica",
+      "link": "https://www.udemy.com/course/programacao_em_perl/learn/lecture/14564468#overview",
+      "KeyPass": "Perl"
+   },
+   {
+      "description": "Curso introdut\u00F3rio r\u00E1pido e pr\u00E1tico sobre terminal Linux (bash) e shell script",
+      "link": "https://www.udemy.com/course/terminal-de-comandos-linux/learn/lecture/12868082#overview",
+      "KeyPass": "Linux"
+   },
+   {
+      "description": "Data Science: Visualiza\u00E7\u00E3o de Dados com Python",
+      "link": "https://www.udemy.com/course/visualizacao-de-dados-com-python/learn/lecture/12615774#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Deep Learning Prerequisites: The Numpy Stack in Python",
+      "link": "https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/learn/lecture/5857370#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Dependency Walker 2Link",
+      "link": "http://www.dependencywalker.com/",
+      "KeyPass": "Dependency"
+   },
+   {
+      "description": "Desenvolvimento Web com PHP e Banco de Dados MySQL",
+      "link": "https://www.udemy.com/php-mysql-x/?couponCode=PRESENTEPHD",
+      "KeyPass": "Cursos"
+   },
+   {
+      "description": "Design your mock",
+      "link": "https://designer.mocky.io/design",
+      "KeyPass": "Java"
+   },
+   {
+      "description": "Django is a powerful web framework that makes it easy to build web applications it's why it's the #1 Python library",
+      "link": "https://www.udemy.com/course/try-django-1-10/learn/lecture/5922350#overview",
+      "KeyPass": "Django"
+   },
+   {
+      "description": "Docker Mastery: with Kubernetes +Swarm from a Docker Captain",
+      "link": "https://www.udemy.com/course/docker-mastery/learn/lecture/6762270#overview",
+      "KeyPass": "Docker"
+   },
+   {
+      "description": "Documenta\u00E7\u00E3o do Cloud Storage",
+      "link": "https://cloud.google.com/storage/docs",
+      "KeyPass": "Tutorials"
+   },
+   {
+      "description": "Domine o Python3! Curso Completo com Exerc\u00EDcios e Projetos + B\u00F4nus Especial: Machine Learning Supervisionado em Python!",
+      "link": "https://www.udemy.com/course/aprenda-a-programar-em-python-com-facilidade-do-zero/learn/lecture/7752166#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Editor VI - Guia de Refer\u00EAncia",
+      "link": "https://aurelio.net/curso/material/vim-ref.html",
+      "KeyPass": "Vim"
+   },
+   {
+      "description": "Empieza siendo productivo con Vim en Linux, windows, Mac y Unix",
+      "link": "https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/learn/lecture/15495850#overview",
+      "KeyPass": "Vim"
+   },
+   {
+      "description": "Enjoy learning programming with Python, building web-apps you publish on the web.",
+      "link": "https://www.udemy.com/course/web-engineering-with-python-and-web2py/learn/lecture/2240798#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Ensina desde como buscar e reconhecer os CMDLETs mais comuns at\u00E9 a forma\u00E7\u00E3o de output na tela!",
+      "link": "https://www.udemy.com/course/automatizando-administracao-com-powershell-curso-10961/learn/lecture/11483792#overview",
+      "KeyPass": "PowerShell"
+   },
+   {
+      "description": "Entendendo GIT | (n\u00E3o \u00E9 um tutorial!)",
+      "link": "https://www.youtube.com/watch?v=6Czd1Yetaac",
+      "KeyPass": "git"
+   },
+   {
+      "description": "Entendendo interfaces em Java",
+      "link": "https://www.devmedia.com.br/entendendo-interfaces-em-java/25502#:~:text=A%20interface%20%C3%A9%20um%20recurso,classe%20de%20uma%20maneira%20diferente.",
+      "KeyPass": "Leitura"
+   },
+   {
+      "description": "Escrevendo em Arquivos com PerlLink",
+      "link": "http://br.perlmaven.com/escrevendo-em-arquivos-com-perl",
+      "KeyPass": "Perl"
+   },
+   {
+      "description": "excel",
+      "link": "https://support.microsoft.com/pt-br/office/atalhos-de-teclado-no-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f#bkmk_freqwin",
+      "KeyPass": "excel"
+   },
+   {
+      "description": "FabioAkita - O Guia DEFINITIVO de Organiza\u00E7\u00F5es",
+      "link": "https://www.youtube.com/watch?v=6S94h3xSbnI",
+      "KeyPass": "Akta"
+   },
+   {
+      "description": "FabioAkita - Playlists",
+      "link": "https://www.youtube.com/c/FabioAkita1990/playlists",
+      "KeyPass": "Akta"
+   },
+   {
+      "description": "Fa\u00E7a provas de conceito, testes de softwares e sistemas operacionais em um ambiente isolado do seu sistema f\u00EDsico.",
+      "link": "https://www.udemy.com/course/crie-seu-ambiente-de-laboratorio-com-virtualbox/learn/lecture/6832124#overview",
+      "KeyPass": "VirtualBox"
+   },
+   {
+      "description": "fandom",
+      "link": "https://www.fandom.com/",
+      "KeyPass": "News"
+   },
+   {
+      "description": "From an absolute beginner, to a certified Web developer, this course will teach you the ABCs of Web development.",
+      "link": "https://www.udemy.com/course/the-essential-web-developer-course/learn/practice/1141794#overview",
+      "KeyPass": "html"
+   },
+   {
+      "description": "Front Accounting ERPLink",
+      "link": "http://frontaccounting.com/wb3/",
+      "KeyPass": "ERP"
+   },
+   {
+      "description": "Fun\u00E7\u00F5es do Excel (por categoria)",
+      "link": "https://goo.gl/oxrvZo",
+      "KeyPass": "EXCEL"
+   },
+   {
+      "description": "Generate Plain Old Java Objects from JSON or JSON-Schema.",
+      "link": "http://www.jsonschema2pojo.org/",
+      "KeyPass": "Java"
+   },
+   {
+      "description": "Gerenciar exce\u00E7\u00F5es com o depurador do Visual Studio",
+      "link": "https://docs.microsoft.com/pt-br/visualstudio/debugger/managing-exceptions-with-the-debugger",
+      "KeyPass": "Tutorial"
+   },
+   {
+      "description": "git - guia pr\u00E1tico",
+      "link": "https://rogerdudler.github.io/git-guide/index.pt_BR.html",
+      "KeyPass": "git"
+   },
+   {
+      "description": "Git & GitHub Masterclass",
+      "link": "https://www.udemy.com/course/git-and-github-masterclass/learn/lecture/14479156#overview",
+      "KeyPass": "Git & GitHub"
+   },
+   {
+      "description": "Git clone, ssh: Could not resolve hostname",
+      "link": "https://kuttler.eu/en/post/git-clone-ssh-could-not-resolve-hostname/",
+      "KeyPass": ""
+   },
+   {
+      "description": "Git e contribui\u00E7\u00F5es para projetos Open Source",
+      "link": "https://www.udemy.com/course/git-e-github/learn/lecture/7149846#overview",
+      "KeyPass": "Git"
+   },
+   {
+      "description": "Git e Github para iniciantes",
+      "link": "https://www.udemy.com/course/git-e-github-para-iniciantes/learn/lecture/5120582#overview",
+      "KeyPass": "Git"
+   },
+   {
+      "description": "Git e Github para iniciantes",
+      "link": "https://www.udemy.com/course/git-e-github-para-iniciantes/learn/lecture/5120608#overview",
+      "KeyPass": "GitHub"
+   },
+   {
+      "description": "Go Java Full Stack with Spring Boot and Angular",
+      "link": "https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/learn/lecture/12537722#overview",
+      "KeyPass": "Spring Boot"
+   },
+   {
+      "description": "Guia de C#",
+      "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/index",
+      "KeyPass": "C#"
+   },
+   {
+      "description": "Guia de instala\u00E7\u00E3o do Subsistema Windows para Linux para Windows 10",
+      "link": "https://docs.microsoft.com/pt-br/windows/wsl/install-win10",
+      "KeyPass": "WSL"
+   },
+   {
+      "description": "Guia de Programa\u00E7\u00E3o em C#",
+      "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/index",
+      "KeyPass": "C#,Tutorial"
+   },
+   {
+      "description": "health",
+      "link": "http://localhost:8083/actuator/health",
+      "KeyPass": "health"
+   },
+   {
+      "description": "How to use python-docx to replace text in a Word document and save",
+      "link": "https://stackoverflow.com/questions/24805671/how-to-use-python-docx-to-replace-text-in-a-word-document-and-save",
+      "KeyPass": "Python"
+   },
+   {
+      "description": "HTML and CSS for Beginners course will give your all the knowledge you need to master HTML and CSS easily and quickly.",
+      "link": "https://www.udemy.com/course/html-and-css-for-beginners-crash-course-learn-fast-easy/learn/lecture/2311804#overview",
+      "KeyPass": "html"
+   },
+   {
+      "description": "HTML5 para quem n\u00E3o sabe nada de HTML5",
+      "link": "https://www.udemy.com/course/aprendahtml/learn/lecture/16963152#overview",
+      "KeyPass": "HTML5"
+   },
+   {
+      "description": "I forgot the password to open a Word document. How can I retrieve the password?",
+      "link": "https://stackoverflow.com/questions/30752525/i-forgot-the-password-to-open-a-word-document-how-can-i-retrieve-the-password",
+      "KeyPass": "pesquisa"
+   },
+   {
+      "description": "ICONESLink",
+      "link": "http://www.iconarchive.com/",
+      "KeyPass": "icon"
+   },
+   {
+      "description": "Instalando o Xamarin no Visual Studio de 2019",
+      "link": "https://docs.microsoft.com/pt-br/xamarin/get-started/installation/windows",
+      "KeyPass": "Xamarin"
+   },
+   {
+      "description": "Introdu\u00E7\u00E3o \u00E0 Linguagem HTML",
+      "link": "https://www.udemy.com/course/introducao-a-linguagem-html/learn/lecture/9891832#overview",
+      "KeyPass": "HTML"
+   },
+   {
+      "description": "Introdu\u00E7\u00E3o \u00E0 linguagem Python",
+      "link": "https://www.udemy.com/course/intro_python/learn/lecture/11785468#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Introdu\u00E7\u00E3o \u00E0 Programa\u00E7\u00E3o para Bioinform\u00E1tica com Python",
+      "link": "https://www.udemy.com/python_para_bioinformatica/?couponCode=PRESENTE_PHD",
+      "KeyPass": "Cursos"
+   },
+   {
+      "description": "Java",
+      "link": "https://www.javatpoint.com/",
+      "KeyPass": "Java"
+   },
+   {
+      "description": "Java 13 COMPLETO: Do Zero ao Profissional + Projetos Reais!",
+      "link": "https://www.udemy.com/course/fundamentos-de-programacao-com-java/learn/lecture/15923756#overview",
+      "KeyPass": "Java 13"
+   },
+   {
+      "description": "Jmeter",
+      "link": "https://jmeter.apache.org/download_jmeter.cgi",
+      "KeyPass": "Jmeter"
+   },
+   {
+      "description": "JSON Viewer",
+      "link": "http://jsonviewer.stack.hu/",
+      "KeyPass": "JSON Viewer"
+   },
+   {
+      "description": "JSON Viewer",
+      "link": "https://codebeautify.org/jsonviewer",
+      "KeyPass": "JSON Viewer"
+   },
+   {
+      "description": "junit",
+      "link": "https://www.youtube.com/results?search_query=junit&page=&utm_source=opensearch",
+      "KeyPass": "Junit"
+   },
+   {
+      "description": "JUnit [1/3]: Criando Testes de Unidade com o JUnit",
+      "link": "https://www.youtube.com/watch?v=sypb0RXkp1k",
+      "KeyPass": "Junit"
+   },
+   {
+      "description": "Learn About Azure Pricing and Support for the AZ-900 Microsoft Azure Fundamentals Certification Exam",
+      "link": "https://www.udemy.com/course/az-900-azure-exam-prep-understand-azure-pricing-support/learn/lecture/13586476#overview",
+      "KeyPass": "AZ-900"
+   },
+   {
+      "description": "Learn About Security, Privacy, Compliance, and Trust for the AZ-900 Microsoft Azure Fundamentals Certification Exam",
+      "link": "https://www.udemy.com/course/az-900-azure-exam-prep-security-privacy-compliance-trust/learn/lecture/13144182#overview",
+      "KeyPass": "AZ-900"
+   },
+   {
+      "description": "Learn docker and containers from complete ground up",
+      "link": "https://www.udemy.com/course/understanding-docker-performing-selenium-automation/learn/lecture/5639274#overview",
+      "KeyPass": "Docker"
+   },
+   {
+      "description": "Learn program",
+      "link": "https://www.dotnetperls.com/",
+      "KeyPass": "C#,Go,Java,Python,Ruby,Scala,Swift,VB.NET,WPF,Favorito"
+   },
+   {
+      "description": "Learn Python",
+      "link": "https://www.pythonforbeginners.com/learn-python/",
+      "KeyPass": "Python"
+   },
+   {
+      "description": "Learn selenium automation with Robot Framework from scratch",
+      "link": "https://www.udemy.com/course/robot-frameworkride-selenium-step-by-step-for-beginners/learn/lecture/10115628#overview",
+      "KeyPass": "Selenium"
+   },
+   {
+      "description": "Learn SSIS",
+      "link": "https://www.youtube.com/channel/UCvhn9JjZ2KZUrVci87PQa5Q",
+      "KeyPass": "ssis"
+   },
+   {
+      "description": "Learn Vimscript the Hard WayLink",
+      "link": "http://learnvimscriptthehardway.stevelosh.com",
+      "KeyPass": "VimVimscript"
+   },
+   {
+      "description": "Leitura",
+      "link": "https://blog.terapiadebolso.com.br/5-habilidades-que-voce-pode-desenvolver-jogando-video-game/",
+      "KeyPass": "leitura"
+   },
+   {
+      "description": "Machine Learning A-Z\u2122: Hands-On Python & R In Data Science",
+      "link": "https://www.udemy.com/course/machinelearning/learn/lecture/5728032#overview",
+      "KeyPass": "Hands-On Python & R"
+   },
+   {
+      "description": "MantisBT makes collaboration with team members & clients easy fast and professionalLink",
+      "link": "http://www.mantisbt.org/",
+      "KeyPass": "bug tracker"
+   },
+   {
+      "description": "Markdown",
+      "link": "https://ajuda.eagletecnologia.com/manuais/base-de-conhecimento/sintaxe-markdown",
+      "KeyPass": "Markdown"
+   },
+   {
+      "description": "Mastering Markdown",
+      "link": "https://guides.github.com/features/mastering-markdown/",
+      "KeyPass": "leitura"
+   },
+   {
+      "description": "Maven",
+      "link": "https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html",
+      "KeyPass": "Maven"
+   },
+   {
+      "description": "MBean (JMX) Monitoring and Management",
+      "link": "https://github.com/brettwooldridge/HikariCP/wiki/MBean-(JMX)-Monitoring-and-Management",
+      "KeyPass": ""
+   },
+   {
+      "description": "MobaSterm",
+      "link": "https://mobaxterm.mobatek.net/features.html",
+      "KeyPass": "MobaSterm"
+   },
+   {
+      "description": "MongoDB, NoSql e Big Data nas Nuvens Microsoft Azure, Amazon AWS, Google Cloud Platform! Domine do zero, sem mist\u00E9rios!",
+      "link": "https://www.udemy.com/course/mongodb-atlas/learn/lecture/16951312#overview",
+      "KeyPass": "MongoDB"
+   },
+   {
+      "description": "NixCraft is an online community of new and seasoned Linux / Unix sysadmins who want to make the most of sysadmin-hood.",
+      "link": "https://www.cyberciti.biz/",
+      "KeyPass": "Linux"
+   },
+   {
+      "description": "Node basics and fundamentals to make you ready to create any web app using express, jade and node modules.",
+      "link": "https://www.udemy.com/course/draft/595294/learn/lecture/3524074#overview",
+      "KeyPass": "Node"
+   },
+   {
+      "description": "O docs.microsoft.com \u00E9 onde fica a documenta\u00E7\u00E3o t\u00E9cnica, a refer\u00EAncia de API, os exemplos de c\u00F3digo, os guias de in\u00EDcio r\u00E1pido e os tutoriais da Microsoft para desenvolvedores e profissionais de TI.",
+      "link": "https://docs.microsoft.com/pt-br/",
+      "KeyPass": "Docs"
+   },
+   {
+      "description": "O EDITOR DE TEXTO VIM",
+      "link": "https://cassiobotaro.gitbooks.io/vimbook/content/",
+      "KeyPass": "Vim"
+   },
+   {
+      "description": "O Guia DEFINITIVO de UBUNTU para Devs Iniciantes",
+      "link": "https://www.youtube.com/watch?v=epiyExCyb2s",
+      "KeyPass": "Akita"
+   },
+   {
+      "description": "O Guia DEFINITIVO de UBUNTU para Devs Iniciantes",
+      "link": "https://www.youtube.com/watch?v=epiyExCyb2s&t",
+      "KeyPass": "Akta"
+   },
+   {
+      "description": "O que \u00E9 o Subsistema do Windows para Linux?",
+      "link": "https://docs.microsoft.com/pt-br/windows/wsl/about",
+      "KeyPass": "WSL"
+   },
+   {
+      "description": "O W3C Brasil disponibiliza alguns materias, tutorias e cursos sobre Tecnologias Web. Veja nos links abaixo nossas publica\u00E7\u00F5es, materiais utilizados nos cursos e outros links para tutoriais.",
+      "link": "http://www.w3c.br/Home/WebHome",
+      "KeyPass": "Tutorial"
+   },
+   {
+      "description": "Online Noteapad",
+      "link": "http://kl1p.com/ailtonCielo",
+      "KeyPass": "Online"
+   },
+   {
+      "description": "Open Source Components for Xamarin",
+      "link": "https://github.com/xamarin/XamarinComponents",
+      "KeyPass": "Xamarin"
+   },
+   {
+      "description": "pandas: Rename index / columns names (labels) of DataFrame",
+      "link": "https://note.nkmk.me/en/python-pandas-dataframe-rename/#:~:text=DataFrame.-,rename(),any%20row%20%2F%20column%20name%20individually.&text=Specify%20the%20original%20name%20and,index%20%2F%20columns%20of%20rename()%20.",
+      "KeyPass": "Python / Pandas"
+   },
+   {
+      "description": "Perl - Directories",
+      "link": "http://www.tutorialspoint.com/perl/perl_directories.htm",
+      "KeyPass": "Perl"
+   },
+   {
+      "description": "Perl tutorialLink",
+      "link": "https://br.perlmaven.com/perl-tutorial",
+      "KeyPass": "Perl"
+   },
+   {
+      "description": "Pesquisa Visual Computacional Um servi\u00E7o de IA que analisa o conte\u00FAdo de imagens e v\u00EDdeos.",
+      "link": "https://azure.microsoft.com/pt-br/services/cognitive-services/computer-vision/",
+      "KeyPass": "azure"
+   },
+   {
+      "description": "pluralsight",
+      "link": "https://www.pluralsight.com/",
+      "KeyPass": "Tutorials"
+   },
+   {
+      "description": "Prepare for the AZ-900 Exam with this Comprehensive AZ-900 Course + 50-Question Exam! (UPDATED FEB 2020)",
+      "link": "https://www.udemy.com/course/az-900-azure-exam-prep-understanding-cloud-concepts/learn/lecture/18041925#overview",
+      "KeyPass": "AZ-900"
+   },
+   {
+      "description": "Python - This course is absolutely designed for beginners , graph enthusiast ready to analyze the world using graphs",
+      "link": "https://www.udemy.com/course/graphs-and-social-network-analytics-for-dummies-using-python/learn/lecture/4171696?start=0#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Python & MySQL",
+      "link": "https://www.udemy.com/python-mysql/?couponCode=PRESENTE_PHD",
+      "KeyPass": "Cursos"
+   },
+   {
+      "description": "Python 3 COMPLETO - Do iniciante ao avan\u00E7ado!",
+      "link": "https://www.udemy.com/course/python-3-completo/learn/lecture/8113300#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Python for beginners! Create Python 3 Real-World Applications from Scratch. In this Python 3 Course.",
+      "link": "https://www.udemy.com/course/python-masterclass-for-beginners/learn/lecture/12851018#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Python Lab - Garoa Hacker Clube",
+      "link": "https://garoa.net.br/wiki/Python_Lab",
+      "KeyPass": "Python"
+   },
+   {
+      "description": "Python para Android, iOS, Win, Linux e Mac - Desde o B\u00E1sico",
+      "link": "https://www.udemy.com/course/curso-de-python-android-ios-windows-linux-mac/learn/lecture/5873664#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Python para Data Science e Machine Learning - COMPLETO",
+      "link": "https://www.udemy.com/course/python-para-data-science-e-machine-learning/learn/lecture/8330422#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Python para Iniciantes",
+      "link": "https://www.udemy.com/course/python-para-iniciantes/learn/lecture/12824279#overview",
+      "KeyPass": "Python3"
+   },
+   {
+      "description": "Python scripts",
+      "link": "http://copyassignment.com/",
+      "KeyPass": "Python"
+   },
+   {
+      "description": "Regular Expressions",
+      "link": "https://blog.udemy.com/vba-regex/",
+      "KeyPass": "Tutorial"
+   },
+   {
+      "description": "Regular ExpressionsLink",
+      "link": "http://dmcritchie.mvps.org/excel/grove_digitsid.htm",
+      "KeyPass": "Tutorials"
+   },
+   {
+      "description": "Renaming .doc or .docx with python according to a text from the document",
+      "link": "https://stackoverflow.com/questions/59190692/renaming-doc-or-docx-with-python-according-to-a-text-from-the-document",
+      "KeyPass": "Python"
+   },
+   {
+      "description": "Replace diff/merge tool in Visual Studio Team System with WinMergeLink",
+      "link": "http://blog.paulbouwer.com/2010/01/31/replace-diffmerge-tool-in-visual-studio-team-system-with-winmerge/",
+      "KeyPass": "Vsts"
+   },
+   {
+      "description": "REST API's RESTFul do 0 \u00E0 Nuvem Com Spring Boot 2.x e Docker",
+      "link": "https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/",
+      "KeyPass": "Spring Boot 2.x e Docker"
+   },
+   {
+      "description": "rocketseat",
+      "link": "https://rocketseat.com.br/",
+      "KeyPass": "Cursos"
+   },
+   {
+      "description": "Ruby Java PHP Python C Programming Matplotlib Python NumPy Python Pandas PL/SQL Swift",
+      "link": "https://www.w3resource.com/",
+      "KeyPass": "Tutorials"
+   },
+   {
+      "description": "Selenium is the most popular tool to test websites! Join me and thousands of students to learn Selenium Webdriver!",
+      "link": "https://www.udemy.com/course/selenium-qa/learn/lecture/4640672#overview",
+      "KeyPass": "Selenium"
+   },
+   {
+      "description": "Selenium WebDriver with C# for Beginners + Live Testing Site",
+      "link": "https://www.udemy.com/course/selenium-qa/learn/lecture/4640690#overview",
+      "KeyPass": "Selenium"
+   },
+   {
+      "description": "Sonar",
+      "link": "https://sonarqube-corp.ccorp.local:9000/dashboard?id=scp-simulador",
+      "KeyPass": "sonnar"
+   },
+   {
+      "description": "SpeedUp: Netflix, Prime videos",
+      "link": "https://chrome.google.com/webstore/detail/speedup-netflix-prime-vid/pldkddbkbcedophgedaeofceedjcaehl/related",
+      "KeyPass": "Exten\u00E7\u00F5es"
+   },
+   {
+      "description": "Spring Boot Reference Guide",
+      "link": "https://docs.spring.io/spring-boot/docs/asciidoctor/html/",
+      "KeyPass": "Spring"
+   },
+   {
+      "description": "sqliteLink",
+      "link": "http://www.sqlite.org/index.html",
+      "KeyPass": "Tutorials"
+   },
+   {
+      "description": "SSIS - How To Use Pivot Transformation in SSIS 2012Link",
+      "link": "http://www.techbrothersit.com/2013/12/ssis-how-to-use-pivot-transformation-in.html",
+      "KeyPass": "ssis"
+   },
+   {
+      "description": "Swagger parte 1: Crie uma documenta\u00E7\u00E3o APIs REST",
+      "link": "https://www.alura.com.br/conteudo/swagger-crie-uma-documentacao-rest",
+      "KeyPass": "java"
+   },
+   {
+      "description": "Swagger: Como gerar uma documenta\u00E7\u00E3o interativa para API REST",
+      "link": "http://www.matera.com/blog/post/swagger-como-gerar-uma-documentacao-interativa-para-api-rest",
+      "KeyPass": "Java"
+   },
+   {
+      "description": "System Stored Procedures (Transact-SQL)",
+      "link": "https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/system-stored-procedures-transact-sql?view=sql-server-2017",
+      "KeyPass": "SQL"
+   },
+   {
+      "description": "Table of Contents",
+      "link": "https://winscp.net/eng/docs/start",
+      "KeyPass": "Winscp,Command"
+   },
+   {
+      "description": "TeamViewerQS",
+      "link": "https://download.teamviewer.com/download/TeamViewerQS.exe",
+      "KeyPass": "app"
+   },
+   {
+      "description": "techonthenet",
+      "link": "http://www.techonthenet.com/index.php",
+      "KeyPass": "Tutorial"
+   },
+   {
+      "description": "techonthenetLink",
+      "link": "https://www.techonthenet.com/index.php",
+      "KeyPass": "Tutorials"
+   },
+   {
+      "description": "Testes de digita\u00E7\u00E3o",
+      "link": "https://10fastfingers.com/typing-test/portuguese",
+      "KeyPass": "digita\u00E7\u00E3o"
+   },
+   {
+      "description": "Testes Unit\u00E1rios em Java Utilizando o JUnit",
+      "link": "https://www.udemy.com/course/testes-unidade-automaticos-software-junit/learn/lecture/6982766#overview",
+      "KeyPass": "Java JUnit"
+   },
+   {
+      "description": "TestNG Framework using IntelliJ IDE for Selenium Automation Testers",
+      "link": "https://www.udemy.com/course/learn-testng-using-intellij-idea/learn/lecture/14410032#overview",
+      "KeyPass": "Selenium"
+   },
+   {
+      "description": "The Connection Strings Reference - ConnectionStrings.com helps developers connect software to data.",
+      "link": "https://www.connectionstrings.com/",
+      "KeyPass": "Connection Strings"
+   },
+   {
+      "description": "The language for building web pages",
+      "link": "http://www.w3schools.com/",
+      "KeyPass": "Tutorial"
+   },
+   {
+      "description": "The language for building web pagesLink",
+      "link": "http://www.w3schools.com/Categoria",
+      "KeyPass": "Tutorials"
+   },
+   {
+      "description": "The most complete course available on the Microsoft Azure developer exam AZ-203 with timed practice test.",
+      "link": "https://www.udemy.com/course/70532-azure/learn/lecture/13361632#overview",
+      "KeyPass": "AZ-203"
+   },
+   {
+      "description": "There is no need of any prior knowledge in learning HTML.",
+      "link": "https://www.udemy.com/course/agr-html/learn/lecture/10552788#overview",
+      "KeyPass": "html"
+   },
+   {
+      "description": "This Repo helps us to find all source code of my YouTube channel's uploaded video",
+      "link": "https://github.com/Java-Techie-jt",
+      "KeyPass": "repositorio"
+   },
+   {
+      "description": "timestamp",
+      "link": "https://www.unixtimestamp.com/index.php",
+      "KeyPass": "linux"
+   },
+   {
+      "description": "Torne-se um Expert NoSQL/MongoDB/Cloud e Domine Sem Mist\u00E9rios! Especial para DEVs/DBAs SQL, Oracle, MySQL, PostgreSQL!",
+      "link": "https://www.udemy.com/course/mongodb-nosql/learn/lecture/10452398#overview",
+      "KeyPass": "MongoDB"
+   },
+   {
+      "description": "Torne-se um profissional para trabalhar com an\u00E1lise de dados e entenda de uma vez esse fant\u00E1stico mundo de Big Data.",
+      "link": "https://www.udemy.com/course/fundamentos-de-big-data-com-hadoop/learn/lecture/7584408#overview",
+      "KeyPass": "big data"
+   },
+   {
+      "description": "Transfer\u00EAncia de arquivos simples e f\u00E1cil para o Amazon S3 usando SFTP, FTPS e FTP",
+      "link": "https://aws.amazon.com/pt/aws-transfer-family/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc",
+      "KeyPass": "aws"
+   },
+   {
+      "description": "Treinamentos",
+      "link": "https://www.aws.training/Dashboard",
+      "KeyPass": "aws"
+   },
+   {
+      "description": "trysql",
+      "link": "https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc",
+      "KeyPass": "trysql"
+   },
+   {
+      "description": "Tudo que voc\u00EA precisa para come\u00E7ar a versionar seus arquivos e contribuir com a comunidade opensource.",
+      "link": "https://www.udemy.com/course/git-e-github-para-iniciantes/learn/lecture/5120576#overview",
+      "KeyPass": "github"
+   },
+   {
+      "description": "Unveiling the mysteries of multithreading in Java. The ultimate Java multithreading course",
+      "link": "https://www.udemy.com/course/java-multithreading/learn/lecture/107238#overview",
+      "KeyPass": "Java"
+   },
+   {
+      "description": "url shortener",
+      "link": "https://goo.gl/",
+      "KeyPass": "shortener"
+   },
+   {
+      "description": "vba",
+      "link": "http://www.cpearson.com/",
+      "KeyPass": "vba"
+   },
+   {
+      "description": "vba",
+      "link": "https://www.datanumen.com/blogs/quickly-merge-multiple-outlook-notes-via-vba/",
+      "KeyPass": "vba"
+   },
+   {
+      "description": "VI Editor with Commands in Linux/Unix Tutorial",
+      "link": "https://www.guru99.com/the-vi-editor.html",
+      "KeyPass": "vim"
+   },
+   {
+      "description": "Vi Improved",
+      "link": "https://guialinux.uniriotec.br/vim/",
+      "KeyPass": "Vim"
+   },
+   {
+      "description": "vim",
+      "link": "https://medium.com/usevim",
+      "KeyPass": "vim"
+   },
+   {
+      "description": "vim",
+      "link": "https://shapeshed.com/tags/vim/",
+      "KeyPass": "vim"
+   },
+   {
+      "description": "Vim - Tutorial IndexLink",
+      "link": "http://vimgenius.com/lessons",
+      "KeyPass": "Vim"
+   },
+   {
+      "description": "Vim Tips and tricks",
+      "link": "https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html",
+      "KeyPass": "vim"
+   },
+   {
+      "description": "Vim Tips Wiki",
+      "link": "https://vim.fandom.com/wiki/Vim_Tips_Wiki",
+      "KeyPass": "vim"
+   },
+   {
+      "description": "Vim/Usando marcas",
+      "link": "https://pt.wikibooks.org/wiki/Vim/Usando_marcas",
+      "KeyPass": "Vim"
+   },
+   {
+      "description": "vimbook",
+      "link": "https://legacy.gitbook.com/book/cassiobotaro/vimbook/details",
+      "KeyPass": "Vim,Book"
+   },
+   {
+      "description": "Visual Studio",
+      "link": "https://marketplace.visualstudio.com/search?target=VS&category=Tools&vsVersion=&subCategory=All&sortBy=Downloads",
+      "KeyPass": "Marketplace"
+   },
+   {
+      "description": "Web Design Responsivo na pr\u00E1tica",
+      "link": "https://www.udemy.com/course/curso-de-design-responsivo/learn/lecture/7031022#overview",
+      "KeyPass": "html"
+   },
+   {
+      "description": "Web Design: Construa Sites com PHP, HTML, CSS e JavaScript",
+      "link": "https://www.udemy.com/programacao-web-para-divulgacao-cientifica/?couponCode=PRESENTE_PHD",
+      "KeyPass": "Cursos"
+   },
+   {
+      "description": "Web development tutorials",
+      "link": "https://www.w3resource.com/",
+      "KeyPass": "Ruby, Java, PHP, Python, C Programming, Matplotlib, Python NumPy, Python Pandas, PL/SQL, Swift"
+   },
+   {
+      "description": "Welcome to C# Examples. This site is focused on simple straightforward code examples suitable for copy and paste.",
+      "link": "http://www.csharp-examples.net/",
+      "KeyPass": "C#,Favorito"
+   },
+   {
+      "description": "Welcome to Conquer Access RunCommand ConstantsLink",
+      "link": "http://access.mvps.org/access/RunCommand/index.htm",
+      "KeyPass": "vba"
+   },
+   {
+      "description": "WIKILIVROS",
+      "link": "https://pt.wikibooks.org/wiki/Wikilivros:P%C3%A1gina_principal",
+      "KeyPass": ""
+   },
+   {
+      "description": "WIN7DLL",
+      "link": "http://www.win7dll.info/",
+      "KeyPass": "Tutorial"
+   },
+   {
+      "description": "Xamarin",
+      "link": "https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface",
+      "KeyPass": ""
+   },
+   {
+      "description": "Xamarin Forms - Apresentando a navega\u00E7\u00E3o entre p\u00E1ginas - ILink",
+      "link": "http://www.macoratti.net/16/12/xamforms_naveg1.htm",
+      "KeyPass": "Xamarin"
+   },
+   {
+      "description": "XamarinLink",
+      "link": "https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/",
+      "KeyPass": "Xamarin"
+   },
+   {
+      "description": "XML Pretty Print using Python \u2013 with Examples",
+      "link": "https://codeblogmoney.com/xml-pretty-print-using-python-with-examples/",
+      "KeyPass": "Python"
+   },
+   {
+      "description": "Yaml Lint",
+      "link": "http://www.yamllint.com/",
+      "KeyPass": "Java"
+   },
+   {
+      "description": "",
+      "link": "http://avamec.mec.gov.br/#/curso/listar",
+      "KeyPass": "mec"
+   },
+   {
+      "description": "",
+      "link": "http://makble.com/h2-database-example-in-gradle",
+      "KeyPass": "banco"
+   },
+   {
+      "description": "",
+      "link": "http://sites.harvard.edu/~cscie22/",
+      "KeyPass": "Java"
+   },
+   {
+      "description": "",
+      "link": "http://sites.harvard.edu/~cscie22/lectures/",
+      "KeyPass": "Java"
+   },
+   {
+      "description": "",
+      "link": "http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea",
+      "KeyPass": "intellij"
+   },
+   {
+      "description": "",
+      "link": "https://avanade.sharepoint.com/sites/ITS/SitePages/Support.aspx",
+      "KeyPass": "Support"
+   },
+   {
+      "description": "",
+      "link": "https://bash.cyberciti.biz/guide/Main_Page",
+      "KeyPass": "linux"
+   },
+   {
+      "description": "",
+      "link": "https://bash.cyberciti.biz/guide/Shell_commands",
+      "KeyPass": "linux"
+   },
+   {
+      "description": "",
+      "link": "https://blog.jetbrains.com/pt-br/2014/10/27/30-dias-com-o-intellij-idea-mapa-de-teclas-2/",
+      "KeyPass": "intellij"
+   },
+   {
+      "description": "",
+      "link": "https://code.visualstudio.com/docs/",
+      "KeyPass": "vscode"
+   },
+   {
+      "description": "",
+      "link": "https://developers.google.com/web/tools/chrome-devtools",
+      "KeyPass": "leitura"
+   },
+   {
+      "description": "",
+      "link": "https://discord.com/channels/@me",
+      "KeyPass": "Discord"
+   },
+   {
+      "description": "",
+      "link": "https://docs.oracle.com/javase/8/docs/",
+      "KeyPass": "docs"
+   },
+   {
+      "description": "",
+      "link": "https://docs.python.org/3.9/using/windows.html",
+      "KeyPass": "docs"
+   },
+   {
+      "description": "",
+      "link": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/",
+      "KeyPass": "Spring"
+   },
+   {
+      "description": "",
+      "link": "https://github.com/caelum",
+      "KeyPass": "repositorio"
+   },
+   {
+      "description": "",
+      "link": "https://github.com/oscardo?tab=repositories",
+      "KeyPass": "git"
+   },
+   {
+      "description": "",
+      "link": "https://gitlab.com/ltec1/ydoctor/serve",
+      "KeyPass": "prj"
+   },
+   {
+      "description": "",
+      "link": "https://howtodoinjava.com/",
+      "KeyPass": "java"
+   },
+   {
+      "description": "",
+      "link": "https://nodejs.org/en/download/",
+      "KeyPass": "nodejs"
+   },
+   {
+      "description": "",
+      "link": "https://regex101.com/",
+      "KeyPass": "Regex"
+   },
+   {
+      "description": "",
+      "link": "https://www.listennotes.com/pt/",
+      "KeyPass": "listennotes"
+   },
+   {
+      "description": "",
+      "link": "https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html",
+      "KeyPass": "downloads"
+   },
+   {
+      "description": "",
+      "link": "https://www.udemy.com/course/java-curso-completo/learn/lecture/10565994#overview",
+      "KeyPass": "java"
+   },
+   {
+      "description": "",
+      "link": "https://www.wallstreetmojo.com/vba-selection/",
+      "KeyPass": "vba"
+   }
+]
