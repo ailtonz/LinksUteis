@@ -7,7 +7,7 @@
    {
       "description": "Bradesco Dental",
       "link": "https://amrops01.service-now.com/avanade?id=kbarticle&sysparm_article=KB0101695",
-      "KeyPass": "Brdesco"
+      "KeyPass": "Bradesco"
    },
    {
       "description": "Cria\u00E7\u00E3o de Tags",
@@ -53,6 +53,11 @@
       "description": "technologyquotient",
       "link": "https://in.accenture.com/technologyquotient/",
       "KeyPass": "Accenture"
+   },
+   {
+      "description": "",
+      "link": "https://avanade.sharepoint.com/Pages/default.aspx",
+      "KeyPass": "Azure"
    },
    {
       "description": "",

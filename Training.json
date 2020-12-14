@@ -1,5 +1,20 @@
 [
    {
+      "description": "Fundamentos de Express\u00F5es Regulares (Regex)",
+      "link": "https://www.udemy.com/course/curso-regex/",
+      "KeyPass": "Regex"
+   },
+   {
+      "description": "Python scripts",
+      "link": "http://copyassignment.com/",
+      "KeyPass": "Python"
+   },
+   {
+      "description": "techonthenetLink",
+      "link": "http://www.techonthenet.com/index.phpCategoria",
+      "KeyPass": ""
+   },
+   {
       "description": "Servicos",
       "link": "https://12factor.net/pt_br/",
       "KeyPass": "MIC"
@@ -58,6 +73,11 @@
       "description": "API RESTful avan\u00E7ada com Spring Boot e Java 8",
       "link": "https://www.udemy.com/course/api-restful-avancada-spring-boot-java-8/",
       "KeyPass": "Spring Boot e Java 8"
+   },
+   {
+      "description": "API RESTful com Spring Boot e Java 8 - Guia de Refer\u00EAncia",
+      "link": "https://www.udemy.com/course/api-restful-spring-boot-java-8-guia-referencia/",
+      "KeyPass": "Spring Boot e Java 8 - Guia de Refer\u00EAncia"
    },
    {
       "description": "API RESTful com Spring Boot e Java 8 - Guia de Refer\u00EAncia",
@@ -895,19 +915,9 @@
       "KeyPass": "Python3"
    },
    {
-      "description": "Python scripts",
-      "link": "http://copyassignment.com/",
-      "KeyPass": "Python"
-   },
-   {
       "description": "Regular Expressions",
       "link": "https://blog.udemy.com/vba-regex/",
       "KeyPass": "Tutorial"
-   },
-   {
-      "description": "Regular ExpressionsLink",
-      "link": "http://dmcritchie.mvps.org/excel/grove_digitsid.htm",
-      "KeyPass": "Tutorials"
    },
    {
       "description": "Renaming .doc or .docx with python according to a text from the document",
@@ -928,11 +938,6 @@
       "description": "rocketseat",
       "link": "https://rocketseat.com.br/",
       "KeyPass": "Cursos"
-   },
-   {
-      "description": "Ruby Java PHP Python C Programming Matplotlib Python NumPy Python Pandas PL/SQL Swift",
-      "link": "https://www.w3resource.com/",
-      "KeyPass": "Tutorials"
    },
    {
       "description": "Selenium is the most popular tool to test websites! Join me and thousands of students to learn Selenium Webdriver!",
@@ -1190,11 +1195,6 @@
       "KeyPass": "Tutorial"
    },
    {
-      "description": "Xamarin",
-      "link": "https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface",
-      "KeyPass": ""
-   },
-   {
       "description": "Xamarin Forms - Apresentando a navega\u00E7\u00E3o entre p\u00E1ginas - ILink",
       "link": "http://www.macoratti.net/16/12/xamforms_naveg1.htm",
       "KeyPass": "Xamarin"
@@ -1222,7 +1222,7 @@
    {
       "description": "",
       "link": "http://makble.com/h2-database-example-in-gradle",
-      "KeyPass": "banco"
+      "KeyPass": "h2"
    },
    {
       "description": "",
@@ -1301,11 +1301,6 @@
    },
    {
       "description": "",
-      "link": "https://gitlab.com/ltec1/ydoctor/serve",
-      "KeyPass": "prj"
-   },
-   {
-      "description": "",
       "link": "https://howtodoinjava.com/",
       "KeyPass": "java"
    },
@@ -1318,6 +1313,16 @@
       "description": "",
       "link": "https://regex101.com/",
       "KeyPass": "Regex"
+   },
+   {
+      "description": "",
+      "link": "https://www.excelcampus.com/vba/remove-duplicates-list-unique-values/",
+      "KeyPass": "vba"
+   },
+   {
+      "description": "",
+      "link": "https://www.exceltip.com/custom-functions-in-vba/extract-unique-values-in-excel-using-one-function.html",
+      "KeyPass": "vba"
    },
    {
       "description": "",
@@ -1338,5 +1343,10 @@
       "description": "",
       "link": "https://www.wallstreetmojo.com/vba-selection/",
       "KeyPass": "vba"
+   },
+   {
+      "description": "Regular ExpressionsLink",
+      "link": "http://dmcritchie.mvps.org/excel/grove_digitsid.htm",
+      "KeyPass": "Regex"
    }
 ]
